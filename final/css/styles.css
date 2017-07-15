@@ -2,18 +2,8 @@ body {
     margin: 10px;
 }
 
-.col-md-4 {
-    border: 1px solid red;
-}
-
-.col-md-12 {
-    border: 1px solid red;
-}
-
 .img-center {
     margin: 0 auto;
 }
 
-.img-responsive {
-    border: 1px solid blue;
-}
+
